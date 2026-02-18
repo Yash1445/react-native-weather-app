@@ -157,12 +157,12 @@ Includes:
 
 ## Platform Support
 
-| Platform          | Status      |
-| ----------------- | ----------- |
-| iOS (Expo Go)     | ✅ Working   |
-| Android (Expo Go) | ✅ Working   |
-| Web               | ✅ Supported |
-| Vercel Deployment | ✅ Ready     |
+| Platform          | 
+| ----------------- | 
+| iOS (Expo Go)     | 
+| Android (Expo Go) | 
+| Web               | 
+| Vercel Deployment |
 
 ---
 
