@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Weather Assignment App",
+    "slug": "weather-assignment-app",
+    "scheme": "weatherassignmentapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {},
+    "extra": {
+      "weatherApiKey": "fb8f5b0833e3489991894901261802"
+    },
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "root": "./app"
+        }
+      ],
+      "expo-asset"
+    ]
+  }
+}
