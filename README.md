@@ -1,11 +1,11 @@
-# 🌤️ React Native Weather App
+# React Native Weather App
 
 A modern **cross-platform Weather Forecast App** built with **React Native (Expo) + TypeScript + Redux Toolkit**.
 Supports **iOS, Android, and Web**, featuring autosuggest search, caching, forecasts, and production-style architecture.
 
 ---
 
-## 🚀 Features
+## Features
 
 * City search with autosuggest (debounced)
 * Real-time weather display
