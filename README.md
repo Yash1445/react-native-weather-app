@@ -7,21 +7,21 @@ Supports **iOS, Android, and Web**, featuring autosuggest search, caching, forec
 
 ## 🚀 Features
 
-* 🔍 City search with autosuggest (debounced)
-* ☀️ Real-time weather display
-* 📅 3–7 day forecast
-* 🕒 Hourly forecast detail screen
-* 🎨 Dynamic weather gradients
-* ⚡ Redux Toolkit state management
-* 💾 AsyncStorage caching (offline-friendly)
-* 🌐 Web export support (Vercel-ready)
-* 📱 Works on iOS & Android (Expo Go)
-* 🧪 Unit tests (Redux slice + selectors)
-* 🧱 Modular enterprise-style folder structure
+* City search with autosuggest (debounced)
+* Real-time weather display
+* 3–7 day forecast
+* Hourly forecast detail screen
+* Dynamic weather gradients
+* Redux Toolkit state management
+* AsyncStorage caching (offline-friendly)
+* Web export support (Vercel-ready)
+* Works on iOS & Android (Expo Go)
+* Unit tests (Redux slice + selectors)
+* Modular enterprise-style folder structure
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 * **Expo SDK 54**
 * **React Native + TypeScript**
@@ -33,7 +33,7 @@ Supports **iOS, Android, and Web**, featuring autosuggest search, caching, forec
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 React Native Developer Assignment Weather App/
@@ -71,9 +71,9 @@ React Native Developer Assignment Weather App/
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
-### 1️⃣ Install dependencies
+### 1️. Install dependencies
 
 ```bash
 npm install
@@ -81,7 +81,7 @@ npm install
 
 ---
 
-### 2️⃣ Run on Mobile (Recommended)
+### 2️. Run on Mobile (Recommended)
 
 ```bash
 npx expo start
@@ -94,7 +94,7 @@ Then scan QR using **Expo Go**:
 
 ---
 
-### 🌐 Run on Web
+### Run on Web
 
 ```bash
 npx expo start --web
@@ -102,7 +102,7 @@ npx expo start --web
 
 ---
 
-### 📦 Export Production Web Build
+### Export Production Web Build
 
 ```bash
 npx expo export --platform web
@@ -122,7 +122,7 @@ Deploy `dist` to:
 
 ---
 
-## 🔑 API Configuration
+## API Configuration
 
 Uses **WeatherAPI.com**
 
@@ -140,7 +140,7 @@ const API_KEY = "YOUR_API_KEY";
 
 ---
 
-## 🧪 Testing
+## Testing
 
 Run tests:
 
@@ -155,7 +155,7 @@ Includes:
 
 ---
 
-## 📱 Platform Support
+## Platform Support
 
 | Platform          | Status      |
 | ----------------- | ----------- |
@@ -166,7 +166,7 @@ Includes:
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 ### Vercel (Web)
 
@@ -195,7 +195,7 @@ Add SPA routing config:
 
 ---
 
-## 📌 Highlights
+## Highlights
 
 * Expo Router architecture
 * Typed Redux hooks
@@ -206,7 +206,7 @@ Add SPA routing config:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Yash Gandas**
 
