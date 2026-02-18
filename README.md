@@ -215,7 +215,3 @@ https://github.com/Yash1445
 
 ---
 
-## 📜 License
-
-Created as part of a **React Native Developer Assignment**.
-For educational and portfolio use.
